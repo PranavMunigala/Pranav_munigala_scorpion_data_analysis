@@ -29,6 +29,30 @@ The Visualization page needs the structure files, which are not part of a CSV-on
 download. It pulls each one from Hugging Face on demand, so that page needs either a
 full local copy or an internet connection.
 
+## Putting it online
+
+The app needs no local data — it streams the tables from Hugging Face when
+`dataset/` is absent — so it deploys as-is to
+[Streamlit Community Cloud](https://share.streamlit.io), free:
+
+1. Sign in at **share.streamlit.io** with the GitHub account that owns this repo.
+2. Authorize Streamlit for **private repositories** when prompted. Without that
+   step a private repo will not appear in the list.
+3. **Create app** → pick this repository, branch `main`, main file `app.py`.
+4. Under *Advanced settings*, set the Python version to **3.13** to match
+   `.python-version`. Dependencies come from `requirements.txt`, which is pinned.
+5. Deploy. The first build takes a few minutes.
+
+Then check **Settings → Sharing** on the deployed app. An app built from a private
+repo starts restricted, so either make it public there, or add the recipient's
+email as a viewer — whichever you prefer. That is the one setting worth confirming
+before sending the link out.
+
+Two things to expect on the free tier: the app sleeps after a spell of inactivity
+and takes roughly half a minute to wake for the first visitor, and the first load
+spends about ten seconds re-deriving the binder criteria over the network before
+caching them.
+
 ## What the app shows
 
 | Page | What you can see |
