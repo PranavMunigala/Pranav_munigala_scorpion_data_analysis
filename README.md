@@ -1,53 +1,98 @@
-# Scorpion toxin binder design — independent reanalysis
+# Scorpion toxin binder design — interactive reanalysis
 
-Verification and analysis scripts for Anthropic's scorpion-toxin binder design data
-release. The goal was to check whether the published claims — in particular the set of
-17 binders — can be reproduced from the raw released data, and then to ask what the
-in-silico scores actually predicted.
+A Streamlit app and a set of verification scripts for Anthropic's scorpion-toxin
+binder design data release. The question behind it: **do the published claims hold
+up against the raw released data, and did the computational scores predict any of
+it?**
 
-## The data
+Short answer to the first half — yes, exactly. Applying the four binder criteria to
+the per-replicate measurements reproduces the published set of 17 binders with zero
+disagreements, across all 665 design–toxin pairs.
 
-This repo contains **only my scripts and derived outputs**. The dataset itself is not
-redistributed here. Get it from Hugging Face:
+## Run it
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+.venv/bin/streamlit run app.py
+```
+
+That is all that is needed. The app streams the tables straight from Hugging Face
+if no local copy is present, so it works from a fresh clone. To use a local copy
+instead, put the release in `dataset/` beside `app.py`, or point
+`SCORPION_DATA_DIR` at it:
 
 ```bash
 hf download Anthropic/scorpion-toxin-binder-design --repo-type dataset --local-dir dataset
 ```
 
-Dataset: [Anthropic/scorpion-toxin-binder-design](https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design) (CC BY 4.0).
-Report: Claude Science, Nathaniel Horwitz, James van Geelen, Kat Kajderowicz, Amir
-Shanehsazzadeh. *De novo design of protein binders against scorpion toxins with Claude.*
-October 20, 2026.
+## What the app shows
 
-In brief: 211 de novo designs against five scorpion toxins (Cn2, Ts1, AaH II, AaH I,
-LqhIII), screened by SPR at two contract research organizations, Adaptyv Bio and Twist
-Bioscience. 17 designs are labelled binders — 7 Cn2, 4 AaH II, 4 AaH I, 2 LqhIII, 0 Ts1.
-
-A design counts as a binder of a toxin when it (1) hits at both labs in every replicate,
-(2) has every main-screen KD at 1 µM or tighter, (3) has a fitted Rmax at Twist within the
-theoretical Rmax, and (4) shows no CLEC12A signal above background in either Twist run.
-LqhIII was measured only at Adaptyv Bio, so it is judged on criteria 1, 2 and 4.
-
-## The scripts
-
-Run from the repository root, with the dataset downloaded to `dataset/`.
-
-| Script | What it does |
+| Page | What you can see |
 |---|---|
-| `check1.py` | Census: row counts, design sets and formats, binder tallies against the claimed 17, and the KD table for the binders with each one's Adaptyv/Twist ratio. |
-| `check2.py` | First re-derivation of the four binder criteria from the `design.csv` summary columns alone, with a disagreement report against the published `binder_against` label, then an audit of why both-lab hits failed (CLEC12A vs. KD vs. Rmax). |
-| `check3.py` | Fixes criterion 1 by taking per-replicate results from `sensorgrams/INDEX.csv` rather than the summary columns. Also inspects two anomalies, `9a8cdc7a` and `cf8652bc`. |
-| `check4.py` | Examines the CLEC12A off-target calls, especially the "near background" category, and the `KD_note` field for those two anomalies. |
-| `check5.py` | The definitive pass. Reads every `*_kinetics.csv` under `sensorgrams/`, uses `Adaptyv_replicate_result` for per-replicate calls, re-derives all four criteria across the 665 intended design–toxin pairs, and writes `pairs_final.csv`. Then reports success rates by design group. |
-| `check6.py` | Analysis rather than verification: AUROC of the in-silico scores (`final_score`, mean ipSAE, mean scDockQ) against the binder outcome, pooled and within sets; median score vs. observed success rate per group; where the binders landed in Claude's own `rank_in_set`; and attribution by `design_tool` and `sequence_design_method`. |
+| **Overview** | The headline numbers, how each of the five toxins fared, and how the success rate fell as later design sets asked one protein to bind several toxins at once. |
+| **Designs** | All 211 designs, filterable by toxin, set, format and name. Open any one for its sequence, both labs' calls and KDs, off-target result, how it was made, expression, and polyreactivity. |
+| **Binder criteria** | The funnel from 665 attempted pairings down to 17 binders, one criterion at a time; the near misses with the reason each was stopped; and a lab-agreement scatter of Adaptyv vs. Twist KDs. |
+| **In silico scores** | AUROC of the pre-experiment scores against the eventual outcome, overall, per campaign and within each single-toxin set, with the score distributions. |
+| **Kinetics** | k<sub>on</sub> against k<sub>off</sub> for every binder replicate with KD isolines, plus the fitted kinetics for any individual design. |
 
-## Output
+## The dataset
 
-`pairs_final.csv` — all 665 intended design–toxin pairs with each of the four criteria
-evaluated per pair, alongside the published label.
+Not committed here. Get it from
+[Anthropic/scorpion-toxin-binder-design](https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design)
+(CC BY 4.0).
 
-## Note on paths
+211 proteins designed *de novo* against five scorpion toxins (Cn2, Ts1, AaH II,
+AaH I, LqhIII), screened by SPR at two contract research organizations, Adaptyv Bio
+and Twist Bioscience. 17 are binders — 7 Cn2, 4 AaH II, 4 AaH I, 2 LqhIII, and none
+at all against Ts1.
 
-The scripts write their outputs to `analysis/`, while the committed copy of
-`pairs_final.csv` lives in `my-analysis/`. Create `analysis/` before running, or adjust
-the `to_csv` paths in `check2.py`, `check5.py` and `check6.py`.
+A design counts as a binder of a toxin when it (1) hits at both labs in every
+replicate, (2) has every main-screen KD at 1 µM or tighter, (3) has a fitted Rmax at
+Twist within the theoretical Rmax, and (4) shows no CLEC12A signal above background
+in either Twist run. LqhIII was measured only at Adaptyv Bio, so it is judged on
+criteria 1, 2 and 4.
+
+Report: Claude Science, Nathaniel Horwitz, James van Geelen, Kat Kajderowicz, Amir
+Shanehsazzadeh. *De novo design of protein binders against scorpion toxins with
+Claude.* October 20, 2026.
+
+## One finding worth knowing
+
+`sensorgrams/INDEX.csv` and the per-design kinetics files do not always agree. For
+design `9a8cdc7a` against Cn2, the index reports `hit` on all three Adaptyv
+replicates, while that design's kinetics file records `Adaptyv_replicate_result` as
+hit / no hit / no hit. Criterion 1 asks for a hit in *every* replicate, so the
+per-replicate column is the one that decides it — and it is why `9a8cdc7a` is not a
+published binder despite looking like one in the index.
+
+Use the index alone and you get 18 binders, not 17. `scorpion/data.py` reads the
+index first and re-checks the kinetics files only for pairs that would otherwise
+pass, which both gets the right answer and keeps the app fast when streaming.
+
+## Layout
+
+```
+app.py                      Overview page and entry point
+pages/                      The other four pages
+scorpion/data.py            Loading, and the binder criteria re-derivation
+scorpion/viz.py             Shared chart styling and the validated palette
+my-analysis/check1-6.py     The original exploratory scripts
+my-analysis/pairs_final.csv Per-pair criteria table from check5
+```
+
+### The original scripts
+
+`my-analysis/check1.py` through `check6.py` are the exploratory pass that came
+first: a census of the release, two successive attempts at re-deriving the binder
+criteria, an audit of the CLEC12A off-target calls, the definitive reproduction, and
+the in-silico score analysis. They run from the repository root and write to
+`analysis/`, so create that directory first. The app supersedes them, but they are
+kept because they are where the kinetics-vs-index discrepancy above was found.
+
+## Charts
+
+Colors come from a validated categorical palette; no chart uses more than three
+categorical series, every series is directly labelled or has a table view beside it,
+and status colors always ship with a word rather than carrying meaning on hue alone.
+The app pins a light theme in `.streamlit/config.toml`, which is the surface the
+palette was validated against.
