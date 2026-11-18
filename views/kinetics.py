@@ -9,7 +9,6 @@ import streamlit as st
 
 from scorpion import data, viz
 
-st.set_page_config(page_title="Kinetics", page_icon="📊", layout="wide")
 st.title("📊 Binding kinetics")
 st.caption(
     "KD says how tightly a design holds a toxin. These are the fitted rates "

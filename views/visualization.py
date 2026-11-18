@@ -9,7 +9,6 @@ import streamlit.components.v1 as components
 
 from scorpion import data, viz
 
-st.set_page_config(page_title="Visualization", page_icon="🔬", layout="wide")
 st.title("🔬 Structure visualization")
 st.caption(
     "The shapes behind the numbers: how each design was meant to wrap around its "

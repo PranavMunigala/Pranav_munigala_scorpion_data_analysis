@@ -9,7 +9,6 @@ import streamlit as st
 
 from scorpion import data, viz
 
-st.set_page_config(page_title="Binder criteria", page_icon="✅", layout="wide")
 st.title("✅ From 665 attempts to 17 binders")
 st.caption(
     "Every criterion re-derived from the raw per-replicate data, then checked "

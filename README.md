@@ -79,7 +79,7 @@ pass, which both gets the right answer and keeps the app fast when streaming.
 
 ```
 app.py                      Overview page and entry point
-pages/                      The other five pages
+views/                      The individual pages, in sidebar order
 scorpion/data.py            Loading, and the binder criteria re-derivation
 scorpion/viz.py             Shared chart styling and the validated palette
 my-analysis/check1-6.py     The original exploratory scripts

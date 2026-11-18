@@ -7,7 +7,6 @@ import streamlit as st
 
 from scorpion import data, viz
 
-st.set_page_config(page_title="Designs", page_icon="🧬", layout="wide")
 st.title("🧬 Designs")
 st.caption("Every design in the release, with its result at each lab.")
 

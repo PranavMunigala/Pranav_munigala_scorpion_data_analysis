@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import streamlit as st
 
-st.set_page_config(page_title="Start here", page_icon="🧭", layout="wide")
 
 st.title("🧭 Start here")
 st.caption("What this app is, and how to find your way around it in two minutes.")
@@ -27,11 +26,11 @@ st.divider()
 # the pages
 # --------------------------------------------------------------------------- #
 
-st.subheader("The five pages, and what each answers")
+st.subheader("The six pages, and what each answers")
 
 pages = [
     (
-        "app.py",
+        "views/overview.py",
         "🦂",
         "Overview",
         "What happened, in numbers",
@@ -40,7 +39,7 @@ pages = [
         "several toxins at once made success rarer.",
     ),
     (
-        "pages/1_Designs.py",
+        "views/designs.py",
         "🧬",
         "Designs",
         "Look up any single design",
@@ -49,7 +48,7 @@ pages = [
         "how it was built.",
     ),
     (
-        "pages/2_Binder_criteria.py",
+        "views/binder_criteria.py",
         "✅",
         "Binder criteria",
         "Why only 17 survived",
@@ -58,7 +57,7 @@ pages = [
         "misses — the ones that failed on a single criterion.",
     ),
     (
-        "pages/3_In_silico_scores.py",
+        "views/in_silico_scores.py",
         "📈",
         "In silico scores",
         "Could we have predicted it?",
@@ -66,24 +65,34 @@ pages = [
         "This page asks how well those predictions matched reality.",
     ),
     (
-        "pages/4_Kinetics.py",
+        "views/kinetics.py",
         "📊",
         "Kinetics",
         "How the binding actually happens",
         "Binding is a race between how fast a design grabs the toxin and how fast "
         "it lets go. This page plots both for every binder.",
     ),
+    (
+        "views/visualization.py",
+        "🔬",
+        "Visualization",
+        "See the shapes themselves",
+        "Rotate the actual three-dimensional structures: how a design was meant "
+        "to wrap around its toxin, and exactly which parts of the two touch.",
+    ),
 ]
 
-cols = st.columns(len(pages), gap="medium")
-for col, (path, icon, name, tagline, body) in zip(cols, pages):
-    with col:
-        with st.container(border=True):
-            st.markdown(f"### {icon}")
-            st.markdown(f"**{name}**")
-            st.caption(tagline)
-            st.write(body)
-            st.page_link(path, label=f"Open {name}", icon=icon)
+PER_ROW = 3
+for start in range(0, len(pages), PER_ROW):
+    cols = st.columns(PER_ROW, gap="medium")
+    for col, (path, icon, name, tagline, body) in zip(cols, pages[start : start + PER_ROW]):
+        with col:
+            with st.container(border=True):
+                st.markdown(f"### {icon}")
+                st.markdown(f"**{name}**")
+                st.caption(tagline)
+                st.write(body)
+                st.page_link(path, label=f"Open {name}", icon=icon)
 
 st.divider()
 

@@ -9,7 +9,6 @@ import streamlit as st
 
 from scorpion import data, viz
 
-st.set_page_config(page_title="In silico scores", page_icon="📈", layout="wide")
 st.title("📈 Did the scores see it coming?")
 st.caption(
     "Every design was scored computationally before anything was made. This page "
