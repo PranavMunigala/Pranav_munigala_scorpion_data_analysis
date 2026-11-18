@@ -25,15 +25,21 @@ instead, put the release in `dataset/` beside `app.py`, or point
 hf download Anthropic/scorpion-toxin-binder-design --repo-type dataset --local-dir dataset
 ```
 
+The Visualization page needs the structure files, which are not part of a CSV-only
+download. It pulls each one from Hugging Face on demand, so that page needs either a
+full local copy or an internet connection.
+
 ## What the app shows
 
 | Page | What you can see |
 |---|---|
+| **Start here** | A plain-language guide to the whole app: what each page answers, how to drive the tables and charts, and a glossary of every term the data uses. |
 | **Overview** | The headline numbers, how each of the five toxins fared, and how the success rate fell as later design sets asked one protein to bind several toxins at once. |
 | **Designs** | All 211 designs, filterable by toxin, set, format and name. Open any one for its sequence, both labs' calls and KDs, off-target result, how it was made, expression, and polyreactivity. |
 | **Binder criteria** | The funnel from 665 attempted pairings down to 17 binders, one criterion at a time; the near misses with the reason each was stopped; and a lab-agreement scatter of Adaptyv vs. Twist KDs. |
 | **In silico scores** | AUROC of the pre-experiment scores against the eventual outcome, overall, per campaign and within each single-toxin set, with the score distributions. |
 | **Kinetics** | k<sub>on</sub> against k<sub>off</sub> for every binder replicate with KD isolines, plus the fitted kinetics for any individual design. |
+| **Visualization** | Interactive 3D structures — the design model and all three predictors' attempts at each pairing, coloured by chain or by predicted confidence, with the contact residues drawn as sticks and the buried-area numbers beside them. |
 
 ## The dataset
 
@@ -73,7 +79,7 @@ pass, which both gets the right answer and keeps the app fast when streaming.
 
 ```
 app.py                      Overview page and entry point
-pages/                      The other four pages
+pages/                      The other five pages
 scorpion/data.py            Loading, and the binder criteria re-derivation
 scorpion/viz.py             Shared chart styling and the validated palette
 my-analysis/check1-6.py     The original exploratory scripts
