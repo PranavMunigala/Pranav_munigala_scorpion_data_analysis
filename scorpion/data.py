@@ -109,6 +109,29 @@ def kinetics(uuid: str) -> pd.DataFrame:
     return table(f"sensorgrams/{uuid}/{uuid}_kinetics.csv")
 
 
+def structure_index() -> pd.DataFrame:
+    return table("structures/INDEX.csv")
+
+
+def predicted_interfaces() -> pd.DataFrame:
+    return table("supporting_tables/predicted_interfaces.csv")
+
+
+@st.cache_data(show_spinner="Fetching structure...", max_entries=40)
+def structure_text(relfile: str) -> str:
+    """The PDB text of one structure, from disk or from Hugging Face."""
+    root = local_root()
+    if root is not None:
+        path = root / "structures" / relfile
+        if path.exists():
+            return path.read_text()
+    import urllib.request
+
+    url = HF_BASE + "structures/" + relfile
+    with urllib.request.urlopen(url, timeout=60) as response:
+        return response.read().decode("utf-8", errors="replace")
+
+
 def is_binder(series: pd.Series) -> pd.Series:
     """True where `binder_against` names a toxin."""
     s = series.astype("string").str.strip()

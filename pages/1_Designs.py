@@ -81,7 +81,7 @@ event = st.dataframe(
 )
 
 if not len(view):
-    st.warning("No designs match these filters.", icon="○")
+    st.warning("No designs match these filters.", icon="🔍")
     st.stop()
 
 rows = event.selection.rows if event and event.selection else []
@@ -100,7 +100,7 @@ st.subheader(f"{title}")
 if pd.notna(chosen.binder_against):
     st.success(f"Binder of **{chosen.binder_against}**", icon="✅")
 else:
-    st.warning("Not a binder of any toxin it was designed against", icon="○")
+    st.warning("Not a binder of any toxin it was designed against", icon="⚪")
 
 m = st.columns(5)
 m[0].metric("ID", chosen.uuid)
