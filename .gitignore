@@ -1,0 +1,11 @@
+# Third-party data and documents — not redistributed here.
+# Dataset: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design (CC BY 4.0)
+dataset/
+*.pdf
+my-analysis/techreport.txt
+
+# Scratch
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+analysis/

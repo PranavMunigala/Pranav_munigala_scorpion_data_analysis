@@ -1,0 +1,666 @@
+uuid,name,tox,set,arep,trep,akd,tkd,rmax,c1,c2,c3,c4,allp,labelled
+02090d8c,Cn2-B4,Cn2,1,hit/hit,hit,112.0,48.3,0.723,True,True,True,True,True,True
+888c8f04,Cn2-B1,Cn2,1,hit/hit,hit,3.1,1.7,0.625,True,True,True,True,True,True
+8ac202c8,Cn2-B3,Cn2,1,hit/hit/hit,hit,162.0,40.1,0.386,True,True,True,True,True,True
+66c2cc29,Cn2-B2,Cn2,1,hit/hit,hit,5.57,3.43,0.571,True,True,True,True,True,True
+05efdf6e,,Cn2,1,no hit/no hit/no hit,weak or ambiguous,,2710.0,0.908,False,False,True,False,False,False
+c23660b4,,Cn2,1,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e9a01963,,Cn2,1,no hit/no hit,no hit,,,,False,False,False,True,False,False
+569171b8,,Cn2,1,no hit/no hit,no hit,,,,False,False,False,False,False,False
+ca06e722,,Cn2,1,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+5f5b71ad,Cn2-B7,Cn2,1,hit/hit,hit,350.0,580.0,0.817,True,True,True,True,True,True
+8f127bdf,,Cn2,1,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3369ca93,,Cn2,1,no hit/no hit,no hit,,,,False,False,False,True,False,False
+85342f05,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+173c84c2,,Ts1,2,hit/hit/hit/hit,no hit,17.2,,,False,True,False,True,False,False
+01f0df6e,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a31d8156,,Ts1,2,no hit/no hit,weak or ambiguous,,110.0,0.522,False,True,True,True,False,False
+c29a9b88,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+82abc3c1,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+56dd795b,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+abcdee20,,Ts1,2,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cea7b270,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5545ab00,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,True,False,False
+b46280d0,,Ts1,2,no hit/no hit,no hit,,,,False,False,False,False,False,False
+8c613690,,Ts1,2,no hit/no hit,weak or ambiguous,,2050.0,1.165,False,False,False,True,False,False
+bdeffba4,,AaH II,3,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a199ee01,AaHII-B4,AaH II,3,hit/hit/hit/hit,hit,21.0,6.31,0.541,True,True,True,True,True,True
+6278a864,,AaH II,3,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bf9f87d6,,AaH II,3,no hit/no hit,no hit,,,,False,False,False,True,False,False
+70e95c3a,,AaH II,3,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bbe37cf8,,AaH II,3,hit/hit,hit,1290.0,145.0,0.579,True,False,True,True,False,False
+47dd0a8a,,AaH II,3,hit/hit/hit,hit,3440.0,65.0,0.558,True,False,True,True,False,False
+1296b21d,,AaH II,3,hit/hit,hit,3380.0,1850.0,0.696,True,False,True,True,False,False
+a8a3f1f9,,AaH II,3,no hit/no hit,no hit,,,,False,False,False,True,False,False
+31723df8,,AaH II,3,no hit/no hit/no hit,hit,,2730.0,1.491,False,False,False,True,False,False
+d2a254ba,AaHII-B1,AaH II,3,hit/hit,hit,78.1,1.68,0.562,True,True,True,True,True,True
+4fcc0f88,,AaH II,3,no hit/no hit/no hit,hit,,2230.0,0.549,False,False,True,True,False,False
+1578f84e,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+6da28c32,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+0c86c52b,,AaH I,4,no hit/no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+917b6d05,,AaH I,4,hit/hit,no hit,360.0,,,False,True,False,True,False,False
+30fc4a66,AaHI-B1,AaH I,4,hit/hit,hit,6.46,26.2,0.618,True,True,True,True,True,True
+23bf54fe,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+99e5450e,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+110493ed,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+22359df4,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+03131527,AaHI-B2,AaH I,4,hit/hit,hit,62.9,57.9,0.789,True,True,True,True,True,True
+97559b03,,AaH I,4,no hit/no hit/no hit,weak or ambiguous,,27.0,0.134,False,True,True,True,False,False
+4412a3c3,,AaH I,4,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+b7640b51,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+37b43daf,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+dceea244,LqhIII-B1,LqhIII,5,hit/hit/hit,,4.34,,,True,True,True,True,True,True
+b033f20c,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+88ef5fe9,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+dbb87a88,LqhIII-B2,LqhIII,5,hit/hit/hit,,40.6,,,True,True,True,True,True,True
+24baf4bf,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+4d787f86,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6fbd27ee,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+21c4722c,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+142cb24a,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a01ae210,,LqhIII,5,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+ec765866,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ec765866,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a6a68a39,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a6a68a39,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+4efbc623,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+4efbc623,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+346a7f1f,,Cn2,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+346a7f1f,,Ts1,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+e32555c5,,Cn2,6,no hit/no hit,hit,,750.0,0.625,False,True,True,True,False,False
+e32555c5,,Ts1,6,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+268861a2,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+268861a2,,Ts1,6,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ae04db8a,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ae04db8a,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0f463bed,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0f463bed,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+eade0bd3,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+eade0bd3,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d1ce49a2,,Cn2,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+d1ce49a2,,Ts1,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+a6efe904,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a6efe904,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+925ee271,,Cn2,6,hit/hit/hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+925ee271,,Ts1,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+79a1814e,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+79a1814e,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2afea962,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2afea962,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a8411894,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a8411894,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9d008884,Cn2-B5,Cn2,6,hit/hit/hit,hit,88.6,49.8,0.441,True,True,True,True,True,True
+9d008884,Cn2-B5,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2a608b59,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2a608b59,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9a8cdc7a,,Cn2,6,hit/no hit/no hit,hit,,772.0,0.531,False,True,True,True,False,False
+9a8cdc7a,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+f7afd975,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+f7afd975,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+47d04ba8,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+47d04ba8,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+367f7a60,,Cn2,6,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+367f7a60,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+b39bbbd3,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+b39bbbd3,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fc655cd5,,Cn2,6,no hit/no hit,weak or ambiguous,,879.0,0.356,False,True,True,False,False,False
+fc655cd5,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,False,False,False
+8382cd8f,,Cn2,6,no hit/no hit,hit,,874.0,0.372,False,True,True,False,False,False
+8382cd8f,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,False,False,False
+b6d46ba0,Cn2-B6,Cn2,6,hit/hit,hit,63.3,53.8,0.406,True,True,True,True,True,True
+b6d46ba0,Cn2-B6,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f0f990a,,Cn2,6,hit/hit,not assessable (capture <50 RU),84.0,,,False,True,False,False,False,False
+3f0f990a,,Ts1,6,no hit/no hit,not assessable (capture <50 RU),,,,False,False,False,False,False,False
+c4bf2b3e,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,False,False,False
+c4bf2b3e,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,False,False,False
+a9ff4905,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a9ff4905,,Ts1,6,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+82c02c9d,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+82c02c9d,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+27764014,,Cn2,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+27764014,,Ts1,6,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cf8652bc,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,False,False,False
+cf8652bc,,AaH I,7,hit/hit/hit,hit,260.0,134.0,0.213,True,True,True,False,False,False
+cf8652bc,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+9cad7527,AaHI-B4,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9cad7527,AaHI-B4,AaH I,7,hit/hit,hit,89.8,182.0,0.572,True,True,True,True,True,True
+9cad7527,AaHI-B4,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+e9b98778,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e9b98778,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+e9b98778,,LqhIII,7,no hit/no hit,,,,,False,False,True,True,False,False
+6e170f78,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6e170f78,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6e170f78,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+52a91175,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+52a91175,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+52a91175,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+3d3dff1a,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3d3dff1a,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+3d3dff1a,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+fe18e4b2,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+fe18e4b2,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+fe18e4b2,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+96ee6417,AaHII-B3,AaH II,7,hit/hit,hit,200.0,3.95,0.571,True,True,True,True,True,True
+96ee6417,AaHII-B3,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+96ee6417,AaHII-B3,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+1a602e62,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+1a602e62,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+1a602e62,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+4eae42fc,,AaH II,7,no hit/no hit/no hit,hit,,955.0,0.395,False,True,True,True,False,False
+4eae42fc,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4eae42fc,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d5c50c2b,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d5c50c2b,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d5c50c2b,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+c816725c,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+c816725c,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+c816725c,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+bdfd04c0,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bdfd04c0,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+bdfd04c0,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+f5d78037,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+f5d78037,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+f5d78037,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+1ffc4a0a,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+1ffc4a0a,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+1ffc4a0a,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+50c76cf5,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+50c76cf5,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+50c76cf5,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8f156315,AaHII-B2,AaH II,7,hit/hit,hit,176.0,3.82,0.457,True,True,True,True,True,True
+8f156315,AaHII-B2,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8f156315,AaHII-B2,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+4dc34f91,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4dc34f91,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4dc34f91,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+41a3e304,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+41a3e304,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+41a3e304,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+7773743e,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+7773743e,,AaH I,7,hit/hit,no hit,344.0,,,False,True,False,True,False,False
+7773743e,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+946282e8,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+946282e8,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+946282e8,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a1f798ca,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a1f798ca,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a1f798ca,,LqhIII,7,hit/no hit/no hit,,,,,False,False,True,True,False,False
+16974899,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+16974899,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+16974899,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+ac4dc12a,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ac4dc12a,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ac4dc12a,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+9d46e87b,,AaH II,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+9d46e87b,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+9d46e87b,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d6cc3356,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d6cc3356,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d6cc3356,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+21286dd8,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+21286dd8,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+21286dd8,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+e711b957,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e711b957,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+e711b957,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+3f1c47f1,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f1c47f1,,AaH I,7,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f1c47f1,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+cac1ca4c,,AaH II,7,no hit/no hit,no hit,,,,False,False,False,False,False,False
+cac1ca4c,,AaH I,7,hit/hit/hit,hit,246.0,66.2,0.527,True,True,True,False,False,False
+cac1ca4c,,LqhIII,7,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+a214e675,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a214e675,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a214e675,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a214e675,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a214e675,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+20511619,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+20511619,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+20511619,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+20511619,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+20511619,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+f8eb661d,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+f8eb661d,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+f8eb661d,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+f8eb661d,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+f8eb661d,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6bdf371c,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6bdf371c,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6bdf371c,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6bdf371c,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6bdf371c,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8d8d0a11,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8d8d0a11,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8d8d0a11,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8d8d0a11,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8d8d0a11,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6a7a1c19,,Cn2,8,no hit/no hit,,,,,False,False,False,False,False,False
+6a7a1c19,,Ts1,8,no hit/no hit,,,,,False,False,False,False,False,False
+6a7a1c19,,AaH II,8,no hit/no hit,,,,,False,False,False,False,False,False
+6a7a1c19,,AaH I,8,no hit/no hit/no hit,,,,,False,False,False,False,False,False
+6a7a1c19,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+da1fb341,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+da1fb341,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+da1fb341,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+da1fb341,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+da1fb341,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+246a108f,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+246a108f,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+246a108f,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+246a108f,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+246a108f,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+fe345fb0,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fe345fb0,,Ts1,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+fe345fb0,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+fe345fb0,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+fe345fb0,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+aaf31f4b,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf31f4b,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf31f4b,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf31f4b,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf31f4b,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+cec3d0b0,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cec3d0b0,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cec3d0b0,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cec3d0b0,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cec3d0b0,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+5b454168,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5b454168,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5b454168,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5b454168,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+5b454168,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+005ebdae,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+005ebdae,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+005ebdae,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+005ebdae,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+005ebdae,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+895f0136,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+895f0136,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+895f0136,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+895f0136,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+895f0136,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+ccfd801c,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ccfd801c,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ccfd801c,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ccfd801c,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ccfd801c,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+457acf43,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+457acf43,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+457acf43,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+457acf43,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+457acf43,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+bc1b4f00,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bc1b4f00,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bc1b4f00,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bc1b4f00,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+bc1b4f00,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+44bc002a,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+44bc002a,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+44bc002a,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+44bc002a,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+44bc002a,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+829eb8ff,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+829eb8ff,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+829eb8ff,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+829eb8ff,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+829eb8ff,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+50967325,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+50967325,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+50967325,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+50967325,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+50967325,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+3f096f6b,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f096f6b,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f096f6b,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f096f6b,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+3f096f6b,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a5ed7742,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a5ed7742,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a5ed7742,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a5ed7742,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a5ed7742,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d248dd44,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d248dd44,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d248dd44,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d248dd44,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d248dd44,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+2c5aeaaf,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2c5aeaaf,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2c5aeaaf,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2c5aeaaf,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+2c5aeaaf,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+987f7834,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+987f7834,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+987f7834,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+987f7834,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+987f7834,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+ff7c1df6,,Cn2,8,,,,,,False,False,False,True,False,False
+ff7c1df6,,Ts1,8,,,,,,False,False,False,True,False,False
+ff7c1df6,,AaH II,8,,,,,,False,False,False,True,False,False
+ff7c1df6,,AaH I,8,,,,,,False,False,False,True,False,False
+ff7c1df6,,LqhIII,8,,,,,,False,False,True,True,False,False
+cc1c8edb,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cc1c8edb,,Ts1,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cc1c8edb,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cc1c8edb,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cc1c8edb,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+fb23e376,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb23e376,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb23e376,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb23e376,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb23e376,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+2b620ceb,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2b620ceb,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2b620ceb,,AaH II,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+2b620ceb,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+2b620ceb,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+c96ce7e1,,Cn2,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+c96ce7e1,,Ts1,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+c96ce7e1,,AaH II,8,no hit/no hit,no hit,,,,False,False,False,True,False,False
+c96ce7e1,,AaH I,8,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+c96ce7e1,,LqhIII,8,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+b6e5be90,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+b6e5be90,,Ts1,9,no hit/no hit,hit,,251.0,1.554,False,True,False,False,False,False
+b6e5be90,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,843.0,0.129,False,True,True,False,False,False
+b6e5be90,,AaH I,9,hit/hit,hit,69.3,21.2,0.461,True,True,True,False,False,False
+b6e5be90,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+f8242edc,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+f8242edc,,Ts1,9,hit/hit/hit,hit,294.0,275.0,1.511,True,True,False,False,False,False
+f8242edc,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+f8242edc,,AaH I,9,hit/hit/hit,hit,105.0,16.8,0.525,True,True,True,False,False,False
+f8242edc,,LqhIII,9,hit/hit,,76.3,,,True,True,True,False,False,False
+33b2180d,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+33b2180d,,Ts1,9,no hit/no hit,weak or ambiguous,,387.0,0.732,False,True,True,False,False,False
+33b2180d,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,305.0,0.065,False,True,True,False,False,False
+33b2180d,,AaH I,9,hit/hit,hit,118.0,31.8,0.617,True,True,True,False,False,False
+33b2180d,,LqhIII,9,hit/hit,,199.0,,,True,True,True,False,False,False
+2375ac8e,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2375ac8e,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+2375ac8e,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,532.0,0.11,False,True,True,True,False,False
+2375ac8e,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+2375ac8e,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6db2c0fc,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6db2c0fc,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6db2c0fc,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6db2c0fc,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6db2c0fc,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+4cc8857b,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+4cc8857b,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+4cc8857b,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4cc8857b,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4cc8857b,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+28491140,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+28491140,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+28491140,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,1680.0,0.197,False,False,True,True,False,False
+28491140,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+28491140,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+e752eb69,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e752eb69,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e752eb69,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+e752eb69,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+e752eb69,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d15c8ece,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d15c8ece,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d15c8ece,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d15c8ece,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d15c8ece,,LqhIII,9,no hit/no hit,,,,,False,False,True,True,False,False
+6a9bcd5b,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6a9bcd5b,,Ts1,9,hit/hit/hit,no hit,18.7,,,False,True,False,True,False,False
+6a9bcd5b,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6a9bcd5b,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6a9bcd5b,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8995a1e3,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8995a1e3,,Ts1,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8995a1e3,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8995a1e3,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8995a1e3,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+cdc4f510,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cdc4f510,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+cdc4f510,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cdc4f510,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+cdc4f510,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d62f6cc0,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d62f6cc0,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d62f6cc0,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,29100.0,2.035,False,False,False,True,False,False
+d62f6cc0,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d62f6cc0,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+062f6e47,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+062f6e47,,Ts1,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+062f6e47,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+062f6e47,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+062f6e47,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+eeaf0e49,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+eeaf0e49,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+eeaf0e49,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+eeaf0e49,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+eeaf0e49,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+e1d7f65f,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e1d7f65f,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+e1d7f65f,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,3580.0,0.506,False,False,True,True,False,False
+e1d7f65f,,AaH I,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+e1d7f65f,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+0bf88e5c,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0bf88e5c,,Ts1,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+0bf88e5c,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0bf88e5c,,AaH I,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0bf88e5c,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8ebe5db2,AaHI-B3,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ebe5db2,AaHI-B3,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ebe5db2,AaHI-B3,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ebe5db2,AaHI-B3,AaH I,9,hit/hit,hit,59.3,102.0,0.59,True,True,True,True,True,True
+8ebe5db2,AaHI-B3,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+569c6be9,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+569c6be9,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+569c6be9,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+569c6be9,,AaH I,9,no hit/no hit,hit,,65.2,0.703,False,True,True,False,False,False
+569c6be9,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+0af4b327,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+0af4b327,,Ts1,9,hit/hit/hit,hit,181.0,70.5,2.275,True,True,False,False,False,False
+0af4b327,,AaH II,9,no hit/no hit/no hit,hit,,240.0,0.211,False,True,True,False,False,False
+0af4b327,,AaH I,9,hit/hit,hit,1.65,12.5,0.522,True,True,True,False,False,False
+0af4b327,,LqhIII,9,hit/hit,,21.2,,,True,True,True,False,False,False
+39f80384,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+39f80384,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+39f80384,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+39f80384,,AaH I,9,hit/hit,hit,147.0,19.9,0.989,True,True,True,False,False,False
+39f80384,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+7491eb22,,Cn2,9,no hit/no hit/no hit,hit,,493.0,0.513,False,True,True,False,False,False
+7491eb22,,Ts1,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+7491eb22,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+7491eb22,,AaH I,9,hit/hit,hit,344.0,39.3,0.599,True,True,True,False,False,False
+7491eb22,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+e9aa252c,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+e9aa252c,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+e9aa252c,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+e9aa252c,,AaH I,9,no hit/no hit/no hit,weak or ambiguous,,30600.0,7.364,False,False,False,False,False,False
+e9aa252c,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+443207a9,,Cn2,9,no hit/no hit/no hit,weak or ambiguous,,347.0,0.373,False,True,True,False,False,False
+443207a9,,Ts1,9,hit/hit/hit/hit,hit,103.0,93.9,2.66,True,True,False,False,False,False
+443207a9,,AaH II,9,no hit/no hit,hit,,215.0,0.554,False,True,True,False,False,False
+443207a9,,AaH I,9,hit/hit,hit,23.2,11.8,0.502,True,True,True,False,False,False
+443207a9,,LqhIII,9,hit/hit,,20.6,,,True,True,True,False,False,False
+700d103b,,Cn2,9,no hit/no hit,hit,,576.0,0.551,False,True,True,True,False,False
+700d103b,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+700d103b,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+700d103b,,AaH I,9,no hit/no hit/no hit,weak or ambiguous,,433.0,0.214,False,True,True,True,False,False
+700d103b,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+40090fca,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+40090fca,,Ts1,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+40090fca,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+40090fca,,AaH I,9,no hit/no hit/no hit,hit,,86.1,0.597,False,True,True,False,False,False
+40090fca,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+e80c46be,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+e80c46be,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+e80c46be,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+e80c46be,,AaH I,9,hit/hit,hit,51.1,40.6,0.529,True,True,True,False,False,False
+e80c46be,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+98052822,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+98052822,,Ts1,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+98052822,,AaH II,9,no hit/no hit,no hit,,,,False,False,False,True,False,False
+98052822,,AaH I,9,hit/hit,weak or ambiguous,91.8,1360.0,0.653,False,False,True,True,False,False
+98052822,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a981802c,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+a981802c,,Ts1,9,no hit/no hit,weak or ambiguous,,183.0,0.673,False,True,True,False,False,False
+a981802c,,AaH II,9,no hit/no hit/no hit,weak or ambiguous,,23600.0,2.491,False,False,False,False,False,False
+a981802c,,AaH I,9,hit/hit,hit,98.2,12.5,0.513,True,True,True,False,False,False
+a981802c,,LqhIII,9,no hit/no hit/no hit,,,,,False,False,True,False,False,False
+6d0b4f3f,,Cn2,9,no hit/no hit,no hit,,,,False,False,False,False,False,False
+6d0b4f3f,,Ts1,9,hit/hit,weak or ambiguous,807.0,275.0,1.178,False,True,False,False,False,False
+6d0b4f3f,,AaH II,9,no hit/no hit/no hit,no hit,,,,False,False,False,False,False,False
+6d0b4f3f,,AaH I,9,hit/hit,hit,68.2,23.0,0.519,True,True,True,False,False,False
+6d0b4f3f,,LqhIII,9,hit/hit,,132.0,,,True,True,True,False,False,False
+0510b42f,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+0510b42f,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+0510b42f,,AaH II,10,no hit/no hit,weak or ambiguous,,24.2,0.089,False,True,True,True,False,False
+0510b42f,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+0510b42f,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+099c0240,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+099c0240,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+099c0240,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+099c0240,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+099c0240,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+138181a8,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+138181a8,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+138181a8,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+138181a8,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+138181a8,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+290c0215,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+290c0215,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+290c0215,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+290c0215,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+290c0215,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+3a62f8c7,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3a62f8c7,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+3a62f8c7,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+3a62f8c7,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+3a62f8c7,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+46735fe6,,Cn2,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+46735fe6,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+46735fe6,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+46735fe6,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+46735fe6,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+4aadd0af,,Cn2,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4aadd0af,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+4aadd0af,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4aadd0af,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+4aadd0af,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+562dbd2b,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+562dbd2b,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+562dbd2b,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+562dbd2b,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+562dbd2b,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+5d9c83b5,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5d9c83b5,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5d9c83b5,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5d9c83b5,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+5d9c83b5,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+5e6f7ee4,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5e6f7ee4,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5e6f7ee4,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+5e6f7ee4,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+5e6f7ee4,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6522cb3b,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6522cb3b,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6522cb3b,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6522cb3b,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6522cb3b,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+6b131882,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6b131882,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6b131882,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+6b131882,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+6b131882,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+76ba446b,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+76ba446b,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+76ba446b,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+76ba446b,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+76ba446b,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+80a0ae6b,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+80a0ae6b,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+80a0ae6b,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+80a0ae6b,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+80a0ae6b,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8ac1c76b,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ac1c76b,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ac1c76b,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ac1c76b,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ac1c76b,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8ba23b79,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ba23b79,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ba23b79,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ba23b79,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ba23b79,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+8ffee11e,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ffee11e,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ffee11e,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ffee11e,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+8ffee11e,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+90ba09fa,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+90ba09fa,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+90ba09fa,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+90ba09fa,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+90ba09fa,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+9525432f,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9525432f,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9525432f,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+9525432f,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+9525432f,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a43e7072,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a43e7072,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a43e7072,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a43e7072,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a43e7072,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+a4692b5f,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a4692b5f,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+a4692b5f,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a4692b5f,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+a4692b5f,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+aa310a28,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aa310a28,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aa310a28,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aa310a28,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aa310a28,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+aaf88b56,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf88b56,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf88b56,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf88b56,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aaf88b56,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+aecee075,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aecee075,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aecee075,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+aecee075,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+aecee075,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+bb35ab17,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bb35ab17,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+bb35ab17,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+bb35ab17,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+bb35ab17,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+c259cc8f,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+c259cc8f,,Ts1,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+c259cc8f,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+c259cc8f,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+c259cc8f,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d3c5127a,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d3c5127a,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d3c5127a,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d3c5127a,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d3c5127a,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+d9a83a6c,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d9a83a6c,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+d9a83a6c,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d9a83a6c,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+d9a83a6c,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+dd557447,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+dd557447,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+dd557447,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+dd557447,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+dd557447,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+ea109fea,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ea109fea,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+ea109fea,,AaH II,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ea109fea,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+ea109fea,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
+fb81748a,,Cn2,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb81748a,,Ts1,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb81748a,,AaH II,10,no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb81748a,,AaH I,10,no hit/no hit/no hit,no hit,,,,False,False,False,True,False,False
+fb81748a,,LqhIII,10,no hit/no hit/no hit,,,,,False,False,True,True,False,False
